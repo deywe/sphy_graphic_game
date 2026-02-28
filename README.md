@@ -63,7 +63,7 @@ Cada coluna representa uma dimensão projetada do qubit no espaço gerado pela p
 🔺 Geometria Piramidal
 
 Ativado automaticamente quando n_qubits == 4
-
+https://drive.google.com/drive/folders/10NIH0Y5nLBN7qjHinaLCHpPLE97ML-7L?usp=sharing
 Essa topologia define:
 
 🟣 Qubit 0: Ápice (Topo)
